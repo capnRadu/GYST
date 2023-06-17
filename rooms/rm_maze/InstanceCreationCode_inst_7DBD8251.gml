@@ -1,0 +1,1 @@
+room_teleport = rm_endgame;
